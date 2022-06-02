@@ -27,7 +27,7 @@ Nowadays, I'm active learning programming and User Experience Design and the mai
 
 ## Additional education
 * Coursera - Foundations of User Experience (UX) Design 
-  ![Certificate](rsschool-cv\img\Certificate.png)  
+  ![Certificate](S:\VSC\rsschool\rsschool-cv\img\Certificate.png)  
 * Coursera - Start the UX Design Process: Empathize, Define, and Ideate (In process)  
 * GeniusSpace - Profession SEO-специалист 4.0 (free listener)  
 * GeniusSpace - Profession Project manager 10.0 (free listener)  

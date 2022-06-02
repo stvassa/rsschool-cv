@@ -1,10 +1,11 @@
 #  **Stepanova Vassa** 
-![Photo](rsschool/rsschool-cv/img/Avatar-mini.jpg)  
+![Photo](./img/Avatar-mini.jpg)  
+
 
 ## Contacts
-* ![Phone](rsschool-cv\img\Phone.svg) +380976598693  
-* ![Discord](rsschool-cv\img\Discord.svg) Vassa#8169  
-* ![Email](rsschool-cv\img\Email.svg) st.vassa@gmail.com  
+* ![Phone](rsschool-cv/img/Phone.svg) +380976598693  
+* ![Discord](rsschool-cv/img/Discord.svg) Vassa#8169  
+* ![Email](/img/Email.svg) st.vassa@gmail.com  
 * ![Location](rsschool-cv\img\Location.svg) Kyiv, Ukraine  
 * ![GitHub](rsschool-cv\img\GitHub.svg) <https://github.com/stvassa>  
 * ![LinkedIn](rsschool-cv\img\Li.svg) <www.linkedin.com/in/stvassa> 

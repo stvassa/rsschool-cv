@@ -1,14 +1,14 @@
 #  **Stepanova Vassa** 
-![](rsschool-cv\img\Avatar-mini.jpg)
+![Photo](rsschool\rsschool-cv\img\Avatar-mini.jpg)  
 
 ## Contacts
-* ![](rsschool-cv\img\Phone.svg) +380976598693  
-* ![](rsschool-cv\img\Discord.svg) Vassa#8169  
-* ![](rsschool-cv\img\Email.svg) st.vassa@gmail.com  
-* ![](rsschool-cv\img\Location.svg) Kyiv, Ukraine  
-* ![](rsschool-cv\img\GitHub.svg) <https://github.com/stvassa>  
-* ![](rsschool-cv\img\Li.svg) <www.linkedin.com/in/stvassa> 
-* ![](rsschool-cv\img\Be.svg) <https://www.behance.net/st_vassa>  
+* ![Phone](rsschool-cv\img\Phone.svg) +380976598693  
+* ![Discord](rsschool-cv\img\Discord.svg) Vassa#8169  
+* ![Email](rsschool-cv\img\Email.svg) st.vassa@gmail.com  
+* ![Location](rsschool-cv\img\Location.svg) Kyiv, Ukraine  
+* ![GitHub](rsschool-cv\img\GitHub.svg) <https://github.com/stvassa>  
+* ![LinkedIn](rsschool-cv\img\Li.svg) <www.linkedin.com/in/stvassa> 
+* ![Behance](rsschool-cv\img\Be.svg) <https://www.behance.net/st_vassa>  
 
 
 ## About me
@@ -27,11 +27,11 @@ Nowadays, I'm active learning programming and User Experience Design and the mai
 
 ## Additional education
 * Coursera - Foundations of User Experience (UX) Design 
-  ![](rsschool-cv\img\Certificate.png)
-* Coursera - Start the UX Design Process: Empathize, Define, and Ideate (In process)
-* GeniusSpace - Profession SEO-специалист | 4.0 (free listener)
-* GeniusSpace - Profession Project manager | 10.0 (free listener)
-* Projector.Humanitarium - How the composition works
+  ![Certificate](rsschool-cv\img\Certificate.png)  
+* Coursera - Start the UX Design Process: Empathize, Define, and Ideate (In process)  
+* GeniusSpace - Profession SEO-специалист 4.0 (free listener)  
+* GeniusSpace - Profession Project manager 10.0 (free listener)  
+* Projector.Humanitarium - How the composition works  
 
 
 ## Skilks

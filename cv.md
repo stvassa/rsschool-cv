@@ -4,19 +4,19 @@
 
 ## Contacts
 * ![] 
-  (S:\VSC\rsschool\rsschool-cv\img\Phone.svg) **Phone:** +380976598693 
+  (S:\VSC\rsschool\rsschool-cv\img\Phone.svg) +380976598693  
 * ![] 
-  (S:\VSC\rsschool\rsschool-cv\img\Discord.svg **Discord:** Vassa#8169 
+  (S:\VSC\rsschool\rsschool-cv\img\Discord.svg) Vassa#8169  
 * ![]
-  (S:\VSC\rsschool\rsschool-cv\img\Email.svg) **Email:** st.vassa@gmail.com  
+  (S:\VSC\rsschool\rsschool-cv\img\Email.svg) st.vassa@gmail.com  
 * ![]
-  (S:\VSC\rsschool\rsschool-cv\img\Location.svg) **Location:** Kyiv, Ukraine  
+  (S:\VSC\rsschool\rsschool-cv\img\Location.svg) Kyiv, Ukraine  
 * ![]
-  (S:\VSC\rsschool\rsschool-cv\img\GitHub.svg) **GitHub:** <https://github.com/stvassa>
+  (S:\VSC\rsschool\rsschool-cv\img\GitHub.svg) <https://github.com/stvassa>  
 * ![]
-  (S:\VSC\rsschool\rsschool-cv\img\Li.svg) **LinkedIn:** <www.linkedin.com/in/stvassa> 
+  (S:\VSC\rsschool\rsschool-cv\img\Li.svg) <www.linkedin.com/in/stvassa> 
 * ![]
-  (S:\VSC\rsschool\rsschool-cv\img\Be.svg) **Behance:** <https://www.behance.net/st_vassa>  
+  (S:\VSC\rsschool\rsschool-cv\img\Be.svg) <https://www.behance.net/st_vassa>  
 
 
 ## About me
@@ -35,8 +35,18 @@ Nowadays, I'm active learning programming and User Experience Design and the mai
 
 
 ## Code examples
+Burger menu close and open
 
-
+```
+  const iconMenu = document.querySelector('.menu-icon');
+  const menuBody = document.querySelector('.menu-body');
+  if (iconMenu) {
+    iconMenu.addEventListener("click", function (e) {
+      iconMenu.classList.toggle('_active');
+      menuBody.classList.toggle('_active');
+    });
+  }
+```
 
 
 ## Education
@@ -48,18 +58,6 @@ Nowadays, I'm active learning programming and User Experience Design and the mai
   * Primary school and English teacher 
 
 
-## Experience
-I have some experience in web design and development, working on small comercial and some volontere projects. These sites I design and developed by myself:
-* <https://moving-site.netlify.app/>
-* <https://optimistic-keller-131bf7.netlify.app/>
-
-
-## Languages
-1. Ukrainian (Native)
-2. Russian (Native)
-3. English (Advanced)
-
-
 ## Additional education
 * Coursera - Foundations of User Experience (UX) Design 
   ![]
@@ -68,6 +66,20 @@ I have some experience in web design and development, working on small comercial
 * GeniusSpace - Profession SEO-специалист | 4.0 (free listener)
 * GeniusSpace - Profession Project manager | 10.0 (free listener)
 * Projector.Humanitarium - How the composition works
+
+## Experience
+I have some experience in web design and development, working on small commercial and some volunteer projects.
+These sites I design and developed by myself:
+* <https://optimistic-keller-131bf7.netlify.app/> I use Figma, HTML, CSS(SASS), JS
+* <https://moving-site.netlify.app/> I use Figma, HTML, CSS(SASS), JS, JQuery 
+
+
+
+## Languages
+1. Ukrainian (Native)
+2. Russian (Native)
+3. English (Advanced)
+
 
 
 

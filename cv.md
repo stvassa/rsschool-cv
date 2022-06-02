@@ -3,13 +3,13 @@
 
 
 ## Contacts
-* ![Phone](./img/Phone.svg) +380976598693  
-* ![Discord](./img/Discord.svg) Vassa#8169  
-* ![Email](./img/Email.svg) st.vassa@gmail.com  
-* ![Location](./img/Location.svg) Kyiv, Ukraine  
-* ![GitHub](./img/GitHub.svg) <https://github.com/stvassa>  
-* ![LinkedIn](./img/Li.svg) <www.linkedin.com/in/stvassa> 
-* ![Behance](./img/Be.svg) <https://www.behance.net/st_vassa>  
+![Phone](./img/Phone.svg) +380976598693  
+![Discord](./img/Discord.svg) Vassa#8169  
+![Email](./img/Email.svg) st.vassa@gmail.com  
+![Location](./img/Location.svg) Kyiv, Ukraine  
+![GitHub](./img/GitHub.svg) <https://github.com/stvassa>  
+![LinkedIn](./img/Li.svg) <www.linkedin.com/in/stvassa> 
+![Behance](./img/Be.svg) <https://www.behance.net/st_vassa>  
 
 
 ## About me

@@ -1,5 +1,5 @@
 #  **Stepanova Vassa** 
-![Photo](rsschool\rsschool-cv\img\Avatar-mini.jpg)  
+![Photo](rsschool/rsschool-cv/img/Avatar-mini.jpg)  
 
 ## Contacts
 * ![Phone](rsschool-cv\img\Phone.svg) +380976598693  

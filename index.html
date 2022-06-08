@@ -5,14 +5,156 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Amita:wght@400;700&family=Dancing+Script:wght@400;500;600;700&family=Fondamento:ital@0;1&family=Kalam:wght@300;400;700&family=Quicksand:wght@400;500;700&family=Roboto+Slab:wght@400;500;600;700&family=Work+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <title>cv</title>
 </head>
 
 <body>
-  <div>Hello World!</div>
+  <div class="container">
+    <header class="header">
+      <div class="logo"><a href="#">stvassa</a></div>
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav__item">Contacts</li>
+          <li class="nav__item">Summary</li>
+          <li class="nav__item">Education</li>
+          <li class="nav__item">Skills</li>
+          <li class="nav__item">Code</li>
+          <li class="nav__item">Experience</li>
+          <li class="nav__item">Languages</li>
+        </ul>
+      </nav>
+    </header>
+    <main class="main">
 
-  <img class="avatar" src="img/Avatar-mini.jpg" alt="Photo: Vassa">
+      <h1 class="">Stepanova Vassa</h1>
+      <img class="avatar" src="assets/img/Avatar-mini.jpg" alt="Photo: Vassa">
+
+      <section id="contacts">
+        <h2>Contacts</h2>
+        <ul class="contacts-list">
+          <li class="contacts__item"><img src="./assets/icons/Phone.svg" alt="Phone"> <a
+              href="tel:+380976598693">+380976598693</a>
+          </li>
+          <li class="contacts__item"><img src="./assets/icons/Discord.svg" alt="Discord"> Vassa#8169</li>
+          <li class="contacts__item"><img src="./assets/icons/Email.svg" alt="Email"> <a
+              href="mailto:st.vassa@gmail.com">st.vassa@gmail.com</a></li>
+          <li class="contacts__item"><img src="./assets/icons/Location.svg" alt="Location"> Kyiv, Ukraine</li>
+          <li class="contacts__item"><img src="./assets/icons/GitHub.svg" alt="GitHub"><a
+              href="https://github.com/stvassa">
+              https://github.com/stvassa</a></li>
+          <li class="contacts__item"><img src="./assets/icons/Linkedin.svg" alt="LinkedIn"> <a
+              href="https://www.linkedin.com/in/stvassa/"> https://www.linkedin.com/in/stvassa/</a></li>
+          <li class="contacts__item"><img src="./assets/icons/Behance.svg" alt="Behance"> <a
+              href="https://www.behance.net/st_vassa">
+              https://www.behance.net/st_vassa</a></li>
+        </ul>
+      </section>
+
+      <section id="summary">
+        <h2>About me</h2>
+        <p>I started my work experience as a teacher, after that there were sales, finally found the area where I want
+          to
+          be - IT.
+          Nowadays, I&#39;m actively learning programming and User Experience Design and the main goal of my training
+          are
+          creating simple, usable, cross-browser and adaptive-responsive websites. Try to use the most of opportunities
+          of
+          HTML and CSS to optimize the loading of the site.
+          <br> My strengths are the ability and desire to learn, build own path and also adapt to new conditions.
+          My goal is to become a Senior UX/UI Designer in a 3 years, with a focus on UX and with understanding the
+          principles of development and, if necessary, writing the code (the front-end) on my own.
+          That is why I get acquainted with related fields such as SEO and project management while there is such an
+          opportunity. I believe that a professional should understand how colleagues work in order not to interfere and
+          improve teamwork.</p>
+      </section>
+
+      <section id="education">
+        <h2>Education</h2>
+        <ul>
+          <li>Master of Education - MEd, Borys Grinchenko Kyiv University<ul>
+              <li>Higher School Pedagogy</li>
+            </ul>
+          </li>
+          <li>Specialist, Borys Grinchenko Kyiv University<ul>
+              <li>Secondary school teacher <em>Foreign Literature and English language</em></li>
+            </ul>
+          </li>
+          <li>Bachelor, Kiev City Pedagogical College №3 <ul>
+              <li>Primary school and English teacher </li>
+            </ul>
+          </li>
+        </ul>
+
+        <h2 id="additional-education">Additional education</h2>
+        <ul>
+          <li>Coursera - Foundations of User Experience (UX) Design
+            <img src="./img/Certificate.png" alt="Certificate"> </li>
+          <li>Coursera - Start the UX Design Process: Empathize, Define, and Ideate (In process) </li>
+          <li>GeniusSpace - Profession SEO-специалист 4.0 (free listener) </li>
+          <li>GeniusSpace - Profession Project manager 10.0 (free listener) </li>
+          <li>Projector.Humanitarium - How the composition works </li>
+        </ul>
+      </section>
+
+      <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>Figma (for web designers)</li>
+          <li>Adobe Illustrator (Basic) </li>
+          <li>Prototyping </li>
+          <li>User Experience Design </li>
+          <li>HTML </li>
+          <li>CSS </li>
+          <li>Preprocessor SASS </li>
+          <li>Bootstrap5 </li>
+        </ul>
+      </section>
+
+      <section id="code-examples">
+        <h2>Code examples</h2>
+        <p><em>Burger menu close and open</em></p>
+        <pre><code>  <span class="hljs-keyword">const</span> iconMenu = <span class="hljs-built_in">document</span>.querySelector(<span class="hljs-string">'.menu-icon'</span>);
+  <span class="hljs-keyword">const</span> menuBody = <span class="hljs-built_in">document</span>.querySelector(<span class="hljs-string">'.menu-body'</span>);
+  <span class="hljs-keyword">if</span> (iconMenu) {
+    iconMenu.addEventListener(<span class="hljs-string">"click"</span>, <span class="hljs-function"><span class="hljs-keyword">function</span> (<span class="hljs-params">e</span>) </span>{
+      iconMenu.classList.toggle(<span class="hljs-string">'_active'</span>);
+      menuBody.classList.toggle(<span class="hljs-string">'_active'</span>);
+    });
+  }
+</code></pre>
+      </section>
+
+      <section id="experience">
+        <h2>Experience</h2>
+        <p>I have some experience in web design and development, working on small commercial and some volunteer
+          projects.
+          These sites I design and developed by myself:</p>
+        <ul>
+          <li><a href="https://optimistic-keller-131bf7.netlify.app/">https://optimistic-keller-131bf7.netlify.app/</a>
+            Used
+            Figma, HTML, CSS(SASS), JS</li>
+          <li><a href="https://moving-site.netlify.app/">https://moving-site.netlify.app/</a> Used Figma, HTML,
+            CSS(SASS),
+            JS, JQuery </li>
+        </ul>
+      </section>
+
+      <section id="languages">
+        <h2>Languages</h2>
+        <ol>
+          <li>Ukrainian (Native)</li>
+          <li>Russian (Native)</li>
+          <li>English (Advanced)</li>
+        </ol>
+      </section>
+    </main>
+  </div>
 </body>
 
 </html>

@@ -1,7 +1,60 @@
+@import 'variables'
+
 *
   box-sizing: border-box
 body
-  color: #001758
+  color: $text
+  font-family: 'Work Sans', 'Roboto Slab', 'Quicksand', 'Amita','Dancing Script','Fondamento', 'Kalam', serif
+  font-size: 1rem
+  line-height: 1.4
 
+h1,
+h2,
+h3,
+  font-family: 'Fondamento'
+  font-weight: bold
+  color: $accent
+
+h1
+  font-size: 4rem
+
+a
+  color: $text
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+    color: $secondary
+
+.container
+  position: relative
+  max-width: 1440px
+  margin: 0px auto
+
+.header
+  position: sticky
+  display: flex
+  align-items: center
+  justify-content: space-between
+  top: 0px
+  padding: 0px 20px
+.nav
+  &-list
+    display: flex
+    align-items: center
+    list-style: none
+  &__item
+    padding-right: 20px
+    cursor: pointer
+    &:last-child
+      padding-right: 0
+    &:hover
+      color: $secondary
+
+.main
+  padding: 10px 80px
+  background: url(../assets/img/paperBG.jpg) repeat top center
 .avatar
   width: 25%
+.contacts-list
+  li
+    list-style: none
